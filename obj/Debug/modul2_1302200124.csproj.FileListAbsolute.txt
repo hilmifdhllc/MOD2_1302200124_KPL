@@ -1,0 +1,11 @@
+C:\Users\Hilmi Fadhillah C\source\repos\modul2_1302200124\modul2_1302200124\bin\Debug\modul2_1302200124.exe.config
+C:\Users\Hilmi Fadhillah C\source\repos\modul2_1302200124\modul2_1302200124\bin\Debug\modul2_1302200124.exe
+C:\Users\Hilmi Fadhillah C\source\repos\modul2_1302200124\modul2_1302200124\bin\Debug\modul2_1302200124.pdb
+C:\Users\Hilmi Fadhillah C\source\repos\modul2_1302200124\modul2_1302200124\obj\Debug\modul2_1302200124.csproj.AssemblyReference.cache
+C:\Users\Hilmi Fadhillah C\source\repos\modul2_1302200124\modul2_1302200124\obj\Debug\modul2_1302200124.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hilmi Fadhillah C\source\repos\modul2_1302200124\modul2_1302200124\obj\Debug\modul2_1302200124.Form1.resources
+C:\Users\Hilmi Fadhillah C\source\repos\modul2_1302200124\modul2_1302200124\obj\Debug\modul2_1302200124.Properties.Resources.resources
+C:\Users\Hilmi Fadhillah C\source\repos\modul2_1302200124\modul2_1302200124\obj\Debug\modul2_1302200124.csproj.GenerateResource.cache
+C:\Users\Hilmi Fadhillah C\source\repos\modul2_1302200124\modul2_1302200124\obj\Debug\modul2_1302200124.csproj.CoreCompileInputs.cache
+C:\Users\Hilmi Fadhillah C\source\repos\modul2_1302200124\modul2_1302200124\obj\Debug\modul2_1302200124.exe
+C:\Users\Hilmi Fadhillah C\source\repos\modul2_1302200124\modul2_1302200124\obj\Debug\modul2_1302200124.pdb
